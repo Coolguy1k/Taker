@@ -6,17 +6,17 @@
     },
     {
       "title": "MySQL",
-      "text": "Currently learning MySQL in class",
+      "text": "open sourse database",
       "id": "6cc0cc78-1468-43d8-9861-3c16f99db0da"
     },
     {
       "title": "Object Relational Mapping",
-      "text": "Learning Sequalize.js after MySQL, to connect Express.js to database.",
+      "text": "to connect Express.js to database.",
       "id": "230101dd-02f6-4e69-8545-e5d7babdabe5"
     },
     {
       "title": "Handlebars.js",
       "text": "JavaScript templating engine for serving dynamic HTML from the server.",
       "id": "e13de8e4-f323-4f37-8555-d780ee5bc3d4"
-    },
+    }
 ]
