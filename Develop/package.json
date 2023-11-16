@@ -1,20 +1,15 @@
 {
-  "name": "taker",
+  "name": "note-taker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Coolguy1k/Taker"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.18.2",
-    "uuid": "^9.0.0"
+    "fs": "^0.0.1-security"
   }
 }
